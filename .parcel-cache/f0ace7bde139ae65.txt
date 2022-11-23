@@ -1,0 +1,26 @@
+25
+19C:\skola\ts\java.js133130646748685699 0
+33C:\skola\ts\src\package-lock.json133130647134284761 0
+29C:\skola\ts\src\.parcel-cache133130647091035549 1
+20C:\skola\ts\main.css133130648788988064 0
+15C:\skola\ts\src133130647134284761 1
+25C:\skola\ts\tsconfig.json133129020407751831 0
+20C:\skola\ts\src\dist133130648366208102 1
+26C:\skola\ts\src\index.html133130649106006579 0
+18C:\skola\ts\src\ts133130648929387940 1
+38C:\skola\ts\src\dist\index.56745db6.js133130648365952499 0
+26C:\skola\ts\src\ts\type.js133130646728393843 0
+26C:\skola\ts\src\ts\type.ts133130649418765363 0
+42C:\skola\ts\src\dist\index.56745db6.js.map133130648366012505 0
+31C:\skola\ts\src\dist\index.html133130648366188094 0
+35C:\skola\ts\src\dist\ts.3464ddca.js133130648365370340 0
+39C:\skola\ts\src\dist\ts.3464ddca.js.map133130648365482465 0
+46C:\skola\ts\src\.parcel-cache\081b21d675a52722133130647091005515 0
+50C:\skola\ts\src\.parcel-cache\4fabc67b5619ed4f.txt133129027791192026 0
+46C:\skola\ts\src\.parcel-cache\7c6a86126193f8b5133129027791232149 0
+46C:\skola\ts\src\.parcel-cache\99cdb6ea7cf68f22133130647090995548 0
+46C:\skola\ts\src\.parcel-cache\adbf3c8817e7b823133130647090995548 0
+38C:\skola\ts\src\.parcel-cache\data.mdb133130646729208976 0
+46C:\skola\ts\src\.parcel-cache\dce753fa3178b132133129027791232149 0
+50C:\skola\ts\src\.parcel-cache\f0ace7bde139ae65.txt133130647090985546 0
+38C:\skola\ts\src\.parcel-cache\lock.mdb133129027704185687 0

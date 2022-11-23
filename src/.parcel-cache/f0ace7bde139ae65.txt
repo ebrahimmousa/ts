@@ -1,0 +1,15 @@
+14
+20C:\skola\ts\src\dist133130650387688271 1
+24C:\skola\ts\src\main.css133130648788988064 0
+26C:\skola\ts\src\index.html133130649106006579 0
+26C:\skola\ts\src\ts\type.ts133130649418765363 0
+33C:\skola\ts\src\package-lock.json133130647134284761 0
+18C:\skola\ts\src\ts133130648929387940 1
+26C:\skola\ts\src\ts\type.js133130646728393843 0
+38C:\skola\ts\src\dist\index.56745db6.js133130650387095456 0
+42C:\skola\ts\src\dist\index.56745db6.js.map133130650387215476 0
+39C:\skola\ts\src\dist\index.e5980c4e.css133130650387518279 0
+43C:\skola\ts\src\dist\index.e5980c4e.css.map133130650387588284 0
+31C:\skola\ts\src\dist\index.html133130650387125476 0
+35C:\skola\ts\src\dist\ts.3464ddca.js133130650387628285 0
+39C:\skola\ts\src\dist\ts.3464ddca.js.map133130650387678269 0
