@@ -1,7 +1,7 @@
 import { IMovie } from "./models/IMovie";
 import { IOmdbResponse } from "./models/IOmdbResponse";
 import axios from "axios";
-import { Person } from "./models/Person";
+import { Person } from "./models/mickel";
 
 let x: number = 17;
 console.log(x);
