@@ -12,7 +12,8 @@ let isMarried: boolean = true;
 let numbers: number[] = [1, 1, 2, 3, 5, 8];
 
 let p: Person = new Person("Sebastian", 43);
-console.log(p.name);
+console.log(name);
+
 
 axios
   .get<IOmdbResponse>("http://www.omdbapi.com/?apikey=416ed51a&s=star")
